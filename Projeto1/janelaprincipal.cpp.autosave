@@ -39,8 +39,8 @@ janelaPrincipal::janelaPrincipal(QWidget *parent) :
                                  larguraApp*0.8, comprimentoApp*0.15);
     sobre->setGeometry(  larguraApp*0.1, comprimentoApp*0.8,
                                  larguraApp*0.8, comprimentoApp*0.15);
-
-
+    
+    
 
 
 

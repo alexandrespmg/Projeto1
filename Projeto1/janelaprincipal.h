@@ -2,6 +2,8 @@
 #define JANELAPRINCIPAL_H
 
 #include <QMainWindow>
+#include <QPushButton>
+#include <QWidget>
 
 namespace Ui {
 class janelaPrincipal;
